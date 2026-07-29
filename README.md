@@ -1,4 +1,4 @@
-# 🍔 ZingyByte AI — Your Food Buddy
+# 🍔 ZingyByte AI — Your Smart Food Buddy
 
 A friendly AI food assistant that helps customers explore menus, track orders, and get food recommendations — powered by **Streamlit**, **LangChain**, and **Groq AI**.
 

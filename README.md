@@ -25,7 +25,7 @@ A friendly AI food assistant that helps customers explore menus, track orders, a
 
 ### 1. Get the code
 ```bash
-git clone https://github.com/YOUR_USERNAME/zingybyte-ai.git
+git clone https://github.com/Fasee9831/ZINGYBYTE-Food-ai-assistant.git
 cd zingybyte-ai
 ```
 
